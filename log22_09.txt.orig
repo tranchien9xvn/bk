@@ -1,0 +1,157 @@
+222222222222222222222222222222222222222222222222
+
+
+<<<<<<< HEAD
+
+
+444444444444444444444444444444444444444444444444
+
+
+
+
+
+=======
+111111111111111111111111111111111111111111111111
+>>>>>>> realwork
+
+commit 9ed2a15d91f7fed4a2fa431fbf1804d0591c8b99
+Author: tranchien9xvn <tranchien9xvn@gmail.com>
+Date:   Sun Sep 22 18:12:13 2024 +0700
+
+    Lấy lại file
+
+diff --git a/note/start_3.txt b/note/start_3.txt
+new file mode 100644
+index 0000000..e69de29
+
+commit c060dab9531578a0efc0a27b725f13b3cda2d3c5
+Author: tranchien9xvn <tranchien9xvn@gmail.com>
+Date:   Sun Sep 22 18:08:32 2024 +0700
+
+    xoa roi
+
+diff --git a/note/start_3.txt b/note/start_3.txt
+deleted file mode 100644
+index e69de29..0000000
+
+commit e0f1703a092ef5cd21caa915dac87ab0181821ca
+Author: tranchien9xvn <tranchien9xvn@gmail.com>
+Date:   Sun Sep 22 18:07:09 2024 +0700
+
+    xoa
+
+diff --git a/note/start_3.txt b/note/start_3.txt
+new file mode 100644
+index 0000000..e69de29
+
+commit 31a9bfa72c16064b035f9c40f353c2851d0e3b3a
+Author: tranchien9xvn <tranchien9xvn@gmail.com>
+Date:   Sun Sep 22 17:58:13 2024 +0700
+
+    chien edit
+
+diff --git a/start_1.txt b/note/start_1.txt
+similarity index 100%
+rename from start_1.txt
+rename to note/start_1.txt
+diff --git a/note/start_2.txt b/note/start_2.txt
+new file mode 100644
+index 0000000..e69de29
+
+commit 69c1b23dba4593e45f208703ddc3be3e5c04a05e
+Author: tranchien9xvn <tranchien9xvn@gmail.com>
+Date:   Sun Sep 22 17:54:59 2024 +0700
+
+    Thay đổi tệp
+
+diff --git a/start.txt b/start_1.txt
+similarity index 100%
+rename from start.txt
+rename to start_1.txt
+
+commit cbab86a76081cc4c3ad3216d514afa3b467bf82c
+Author: tranchien9xvn <tranchien9xvn@gmail.com>
+Date:   Sun Sep 22 17:37:59 2024 +0700
+
+    Chien check
+
+diff --git a/note/level1/info.txt b/note/level1/info.txt
+new file mode 100644
+index 0000000..91af5c3
+--- /dev/null
++++ b/note/level1/info.txt
+@@ -0,0 +1,8 @@
++doan 1
++
++doan 2
++
++doan 3
++
++
++
+
+commit 920a2bf584d5251f183f01e310ff0cf34c1dd091
+Author: tranchien9xvn <tranchien9xvn@gmail.com>
+Date:   Sun Sep 22 17:21:11 2024 +0700
+
+    edit
+
+diff --git a/start.txt b/start.txt
+index 4199ef6..f275111 100644
+--- a/start.txt
++++ b/start.txt
+@@ -2,3 +2,9 @@ Test git demo
+ 
+ 
+ Test git chien TV 22 09 2024
++
++Comments lần thứ 3
++
++haha
++
++
+
+commit 7044ae1cad3d5e42bd11908a0d0df72b052372a7
+Author: tranchien9xvn <tranchien9xvn@gmail.com>
+Date:   Sun Sep 22 17:11:50 2024 +0700
+
+    Chiến điều chỉnh file này
+
+diff --git a/start.txt b/start.txt
+index 7563302..4199ef6 100644
+--- a/start.txt
++++ b/start.txt
+@@ -1 +1,4 @@
+ Test git demo
++
++
++Test git chien TV 22 09 2024
+
+commit c260d404e14764095e47c24804b97eb331f94405
+Author: tranchien9xvn <tranchien9xvn@gmail.com>
+Date:   Sat Sep 21 23:37:40 2024 +0700
+
+    Chien up
+
+diff --git a/start.txt b/start.txt
+new file mode 100644
+index 0000000..7563302
+--- /dev/null
++++ b/start.txt
+@@ -0,0 +1 @@
++Test git demo
+
+commit dd6a64a674716817fd75f9e85e3836f3624251fc
+Author: tranchien9xvn <49331104+tranchien9xvn@users.noreply.github.com>
+Date:   Sat Sep 21 22:11:04 2024 +0700
+
+    Initial commit
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..8213b78
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# bk
+\ No newline at end of file
